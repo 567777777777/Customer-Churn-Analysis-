@@ -20,7 +20,6 @@ Data Transformation: Utilize Power BI for transforming data and creating meaning
 Predictive Modeling: Apply machine learning algorithms to predict customer churn and evaluate model performance.
 Visualization and Insights: Develop interactive dashboards and visualizations to represent the data insights and prediction results.
 
-
 Project Target
 Visualize & Analyze Customer Data:
 Demographic
@@ -29,12 +28,10 @@ Payment & Account Info
 Services
 Study Churner Profile & Identify Areas for Implementing Marketing Campaigns
 Identify a Method to Predict Future Churners
-
 Metrics Required
 Total Customers
 Total Churn & Churn Rate
 New Joiners
-
 STEP 1 - ETL Process in SQL Server
 1. Install SQL Server Management Studio (SSMS):
 Download from: SSMS Download
@@ -276,3 +273,4 @@ sample_data = pd.DataFrame({
 predictions = model.predict(sample_data)
 3. Evaluate Model Performance:
 Analyze the confusion matrix and classification report to understand the performance metrics like precision, recall, F1 score, and accuracy.
+
