@@ -1,8 +1,11 @@
 # Customer-Churn-Analysis-
+
 ➢ Title
 “Customer Churn Analysis in Telecom Industry Using 
 Machine Learning and Data Visualization” 
+
 ➢ Problem Statement 
+
 In the highly competitive telecom sector, minimizing customer churn is 
 crucial for maintaining corporate development and profitability. Customer 
 churn, defined as the loss of subscribers or clients, poses significant 
@@ -23,7 +26,9 @@ model to predict churn probabilities and dynamic Power BI dashboards to
 visualize results, the project will provide actionable insights for data-driven 
 decision-making. Ultimately, the project aims to help telecom companies 
 improve customer retention, profitability, and market competitiveness.
+
 ➢ Objectives of the Project
+
 The primary objective of this project is to leverage data analytics and 
 machine learning to gain a deeper understanding of customer churn in the 
 telecom industry. The goals and metrics for churn analysis are multifaceted, 
@@ -44,8 +49,10 @@ trends, demographic breakdowns, and predictive analytics
 results for stakeholders. 
 • Track and analyze metrics like total customers, churn rate, new 
 joiners, and demographic insights to inform marketing 
-campaigns and retention efforts. 
+campaigns and retention efforts.
+
 ➢ Project Methodology 
+
 This research will involve an in-depth analysis of a telecom customer 
 dataset, which includes demographic information, service subscriptions, 
 payment histories, and churn statuses. Key steps include:
