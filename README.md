@@ -4,7 +4,14 @@
 “Customer Churn Analysis in Telecom Industry Using 
 Machine Learning and Data Visualization” 
 
-Objective: The project aims to analyze customer churn within the telecom industry using data analytics and machine learning techniques. The goal is to understand the factors contributing to customer churn, predict potential churners, and provide actionable insights for improving customer retention.
+Objectives
+Identify Key Factors Influencing Churn: Analyze telecom customer data to pinpoint significant churn factors and understand customer behavior.
+Predict Customer Churn: Develop a Random Forest model to accurately predict churn probabilities and aid in proactive retention strategies.
+Visualize Churn Data: Create interactive dashboards in Power BI to present churn trends, demographic insights, and predictive analytics results.
+
+Dataset
+Source: Kaggle Telecom Customer Churn Dataset
+Features: Includes demographic details, service subscriptions, payment histories, and churn statuses.
 
 Scope:
 
